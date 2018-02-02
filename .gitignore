@@ -13,7 +13,7 @@ database/beaker_sessions
 database/citations
 database/community_files
 database/compiled_templates
-database/files
+database/files*
 database/jobs_directory
 database/job_working_directory
 database/pbs
